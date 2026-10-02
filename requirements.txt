@@ -1,0 +1,11 @@
+# PDF Forge Python Backend Dependencies
+Flask==3.0.3
+Flask-Cors==4.0.1
+PyMuPDF==1.24.1
+pypdf==4.2.0
+pdfplumber==0.11.0
+pytesseract==0.3.10
+Pillow==10.3.0
+reportlab==4.2.0
+werkzeug==3.0.3
+python-dotenv==1.0.1

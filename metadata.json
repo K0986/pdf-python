@@ -1,0 +1,6 @@
+{
+  "name": "PDF Forge",
+  "description": "Production-quality local full-featured PDF editor with page management, multilingual typography, annotations, redaction, and drawing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
